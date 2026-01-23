@@ -211,3 +211,5 @@ dados_exemplo/*/*/comparacao/
 **/comparacao/*.csv
 **/comparacao/*.png
 **/comparacao/*.txt
+ECMWF/
+GEFS/*
