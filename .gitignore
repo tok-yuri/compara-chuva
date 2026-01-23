@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Output data from notebook
+dados_exemplo/*/*/comparacao/
+**/comparacao/*.csv
+**/comparacao/*.png
+**/comparacao/*.txt
