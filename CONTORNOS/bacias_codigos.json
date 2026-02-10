@@ -1,0 +1,809 @@
+{
+    "bacias": [
+        {
+            "nome": "Araguari",
+            "items": [
+                {
+                    "nome": "FerreiraGomes",
+                    "codigo": "PSATFGOM",
+                    "id": 25
+                }
+            ]
+        },
+        {
+            "nome": "Balbina",
+            "items": [
+                {
+                    "nome": "Balbina",
+                    "codigo": "PSATBALB",
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "nome": "CuruaUna",
+            "items": [
+                {
+                    "nome": "CuruaUna",
+                    "codigo": "PSATCUNA",
+                    "id": 15
+                }
+            ]
+        },
+        {
+            "nome": "Doce",
+            "items": [
+                {
+                    "nome": "Candonga",
+                    "codigo": "PSATCAN",
+                    "id": 5
+                },
+                {
+                    "nome": "Porto Estrela",
+                    "codigo": "PSATPES",
+                    "id": 56
+                },
+                {
+                    "nome": "Sa Carvalho",
+                    "codigo": "PSATSAC",
+                    "id": 69
+                },
+                {
+                    "nome": "VIA Mascarenhas",
+                    "codigo": "PSATMAS",
+                    "id": 48
+                }
+            ]
+        },
+        {
+            "nome": "Grande",
+            "items": [
+                {
+                    "nome": "Camargos",
+                    "codigo": "PSATCMG",
+                    "id": 9
+                },
+                {
+                    "nome": "E_cunha",
+                    "codigo": "PSATELC",
+                    "id": 19
+                },
+                {
+                    "nome": "Fazenda_Capao_Escuro",
+                    "codigo": "PSATCES",
+                    "id": 90
+                },
+                {
+                    "nome": "Funil",
+                    "codigo": "PSATFUN",
+                    "id": 27
+                },
+                {
+                    "nome": "Furnas",
+                    "codigo": "PSATFUR",
+                    "id": 28
+                },
+                {
+                    "nome": "Inc_AV_Marimbondo",
+                    "codigo": "PSATAGV",
+                    "id": 95
+                },
+                {
+                    "nome": "Marimbondo",
+                    "codigo": "PSATMRB",
+                    "id": 52
+                },
+                {
+                    "nome": "Paraguacu",
+                    "codigo": "PSATPRG",
+                    "id": 96
+                },
+                {
+                    "nome": "Passagem",
+                    "codigo": "PSATPAS",
+                    "id": 95
+                },
+                {
+                    "nome": "Porto_Colombia",
+                    "codigo": "PSATPTC",
+                    "id": 60
+                },
+                {
+                    "nome": "Porto_dos_Buenos",
+                    "codigo": "PSATPTB",
+                    "id": 97
+                }
+            ]
+        },
+        {
+            "nome": "Capivari",
+            "items": [
+                {
+                    "nome": "GPSouza_ajust",
+                    "codigo": "PSATCVCH",
+                    "id": 16
+                },
+                {
+                    "nome": "EC45-GPSouza_ECMWF_45d",
+                    "codigo": "PSATCVCH",
+                    "id": 16
+                }
+            ]
+        },
+        {
+            "nome": "Igaucu",
+            "items": [
+                {
+                    "nome": "BIguacu_VIA",
+                    "codigo": "PSATBIGU",
+                    "id": 74
+                },
+                {
+                    "nome": "foz_do_areia",
+                    "codigo": "PSATFZA",
+                    "id": 29
+                },
+                {
+                    "nome": "jordao_segredo",
+                    "codigo": "PSATJSG",
+                    "id": 42
+                },
+                {
+                    "nome": "salto_caxias",
+                    "codigo": "PSATSCX",
+                    "id": 121
+                },
+                {
+                    "nome": "sta_clara",
+                    "codigo": "PSATSCL",
+                    "id": 73
+                },
+                {
+                    "nome": "uniao_da_vitoria",
+                    "codigo": "PSATUVT",
+                    "id": 99
+                }
+            ]
+        },
+        {
+            "nome": "Itabapoana",
+            "items": [
+                {
+                    "nome": "EC45-Rosal_ecmwf",
+                    "codigo": "PSATROSA",
+                    "id": 68
+                },
+                {
+                    "nome": "Rosal",
+                    "codigo": "PSATROSA",
+                    "id": 68
+                }
+            ]
+        },
+        {
+            "nome": "Itaipu",
+            "items": [
+                {
+                    "nome": "balsa_santa_maria",
+                    "codigo": "PSATBSM",
+                    "id": 89
+                },
+                {
+                    "nome": "florida_estrada",
+                    "codigo": "PSATFLE",
+                    "id": 91
+                },
+                {
+                    "nome": "itaipu",
+                    "codigo": "PSATITP",
+                    "id": 82
+                },
+                {
+                    "nome": "ivinhema",
+                    "codigo": "PSATIVM",
+                    "id": 94
+                },
+                {
+                    "nome": "porto_taquara",
+                    "codigo": "PSATPTQ",
+                    "id": 98
+                }
+            ]
+        },
+        {
+            "nome": "Jacui",
+            "items": [
+                {
+                    "nome": "UHE_14_Julho_INC",
+                    "codigo": "PSATXIVJ",
+                    "id": 86
+                },
+                {
+                    "nome": "UHE_Castro_Alves",
+                    "codigo": "PSATCTAV",
+                    "id": 14
+                },
+                {
+                    "nome": "UHE_D_Francisca_INC",
+                    "codigo": "PSATDFRC",
+                    "id": 18
+                },
+                {
+                    "nome": "UHE_Ernestina_ajust",
+                    "codigo": "PSATERNT",
+                    "id": 21
+                },
+                {
+                    "nome": "UHE_Passo_Real_INC",
+                    "codigo": "PSATREAL",
+                    "id": 65
+                }
+            ]
+        },
+        {
+            "nome": "Jequitinhonha",
+            "items": [
+                {
+                    "nome": "Irape",
+                    "codigo": "PSATIRAP",
+                    "id": 33
+                },
+                {
+                    "nome": "Itapebi",
+                    "codigo": "PSATITBI",
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "nome": "Madeira",
+            "items": [
+                {
+                    "nome": "Amaru_subbacia1",
+                    "codigo": "PSATAMY1",
+                    "id": 123
+                },
+                {
+                    "nome": "Amaru_subbacia2",
+                    "codigo": "PSATAMY2",
+                    "id": 124
+                },
+                {
+                    "nome": "Amaru_subbacia3",
+                    "codigo": "PSATAMY3",
+                    "id": 125
+                },
+                {
+                    "nome": "Amaru_subbacia4",
+                    "codigo": "PSATAMY4",
+                    "id": 126
+                },
+                {
+                    "nome": "PrincipedaBeira",
+                    "codigo": "PSATEPB",
+                    "id": 108
+                },
+                {
+                    "nome": "Inc_UHESantoAntonio",
+                    "codigo": "PSATSTOA",
+                    "id": 72
+                },
+                {
+                    "nome": "Inc_UHEJirau_semRioBeni_v3",
+                    "codigo": "PSATJRI",
+                    "id": 127
+                },
+                {
+                    "nome": "RioBeni_Montante",
+                    "codigo": "PSATBENI",
+                    "id": 128
+                },
+                {
+                    "nome": "NovaCalifornia",
+                    "codigo": "PSATENC",
+                    "id": 129
+                },
+                {
+                    "nome": "UHE_Dardanelos",
+                    "codigo": "PSATDARD",
+                    "id": 17
+                },
+                {
+                    "nome": "UHE_Guapore",
+                    "codigo": "PSATGUAP",
+                    "id": 30
+                },
+                {
+                    "nome": "GuarajaMirim",
+                    "codigo": "PSATEGM",
+                    "id": 93
+                },
+                {
+                    "nome": "EC45-Guapore_ajustECMWF",
+                    "codigo": "PSATGUAP",
+                    "id": 30
+                },
+                {
+                    "nome": "UHE_Rondon_II",
+                    "codigo": "PSATROND",
+                    "id": 66
+                },
+                {
+                    "nome": "UHE_Samuel",
+                    "codigo": "PSATSAMU",
+                    "id": 71
+                }
+            ]
+        },
+        {
+            "nome": "Mucuri",
+            "items": [
+                {
+                    "nome": "Sta Clara MG",
+                    "codigo": "PSATSTCL",
+                    "id": 80
+                }
+            ]
+        },
+        {
+            "nome": "Paraguacu",
+            "items": [
+                {
+                    "nome": "Pedra do Cavalo",
+                    "codigo": "PSATPDC",
+                    "id": 55
+                }
+            ]
+        },
+        {
+            "nome": "Paraguai",
+            "items": [
+                {
+                    "nome": "Itiquira",
+                    "codigo": "PSATITQ",
+                    "id": 37
+                },
+                {
+                    "nome": "Jauru",
+                    "codigo": "PSATJAU",
+                    "id": 40
+                },
+                {
+                    "nome": "EC45-Jauru_ecmwf",
+                    "codigo": "PSATJAU",
+                    "id": 40
+                },
+                {
+                    "nome": "Manso",
+                    "codigo": "PSATMAN",
+                    "id": 47
+                },
+                {
+                    "nome": "PPedra",
+                    "codigo": "PSATPTP",
+                    "id": 61
+                }
+            ]
+        },
+        {
+            "nome": "ParaibaDoSul",
+            "items": [
+                {
+                    "nome": "Jaguari",
+                    "codigo": "PSATJAG",
+                    "id": 109
+                },
+                {
+                    "nome": "Ilha dos Pombos_Simplicio",
+                    "codigo": "PSATIPSI",
+                    "id": 116
+                },
+                {
+                    "nome": "INC_Funil",
+                    "codigo": "PSATFUNI",
+                    "id": 111
+                },
+                {
+                    "nome": "INC_SantaCecilia",
+                    "codigo": "PSATSACE",
+                    "id": 112
+                },
+                {
+                    "nome": "Picada",
+                    "codigo": "PSATPIC",
+                    "id": 114
+                },
+                {
+                    "nome": "Sobragi",
+                    "codigo": "PSATSOGI",
+                    "id": 115
+                },
+                {
+                    "nome": "VIA_SantaBranca",
+                    "codigo": "PSATSBR",
+                    "id": 110
+                },
+                {
+                    "nome": "VIA_Tocos_Lajes",
+                    "codigo": "PSATTCLJ",
+                    "id": 113
+                }
+            ]
+        },
+        {
+            "nome": "Parana",
+            "items": [
+                {
+                    "nome": "Espora",
+                    "codigo": "PSATESP",
+                    "id": 22
+                },
+                {
+                    "nome": "Fazenda_Buriti",
+                    "codigo": "PSATFZBT",
+                    "id": 92
+                },
+                {
+                    "nome": "Foz_do_Rio_Claro",
+                    "codigo": "PSATFRCL",
+                    "id": 26
+                },
+                {
+                    "nome": "Ilha_Solteira_Tres_Irmaos",
+                    "codigo": "PSATISOT",
+                    "id": 34
+                },
+                {
+                    "nome": "Jupia",
+                    "codigo": "PSATJUP",
+                    "id": 43
+                },
+                {
+                    "nome": "Porto_Primavera",
+                    "codigo": "PSATPPRA",
+                    "id": 58
+                },
+                {
+                    "nome": "Salto_Verdinho",
+                    "codigo": "PSATSRC",
+                    "id": 78
+                },
+                {
+                    "nome": "Sao_Domingos",
+                    "codigo": "PSATSDG",
+                    "id": 75
+                }
+            ]
+        },
+        {
+            "nome": "Paranaiba",
+            "items": [
+                {
+                    "nome": "Abaixo_da_Barra_do_Rio_Verde",
+                    "codigo": "PSATARV",
+                    "id": 88
+                },
+                {
+                    "nome": "corumba1",
+                    "codigo": "PSATCBI",
+                    "id": 6
+                },
+                {
+                    "nome": "corumba4",
+                    "codigo": "PSATCBIV",
+                    "id": 7
+                },
+                {
+                    "nome": "emborcacao",
+                    "codigo": "PSATEMB",
+                    "id": 20
+                },
+                {
+                    "nome": "itumbiara",
+                    "codigo": "PSATIMBR",
+                    "id": 32
+                },
+                {
+                    "nome": "nova_ponte",
+                    "codigo": "PSATNPTE",
+                    "id": 54
+                },
+                {
+                    "nome": "Sao_Simao",
+                    "codigo": "PSATSSM",
+                    "id": 79
+                },
+                {
+                    "nome": "serra_do_facao",
+                    "codigo": "PSATSFC",
+                    "id": 76
+                }
+            ]
+        },
+        {
+            "nome": "Paranapanema",
+            "items": [
+                {
+                    "nome": "Maua",
+                    "codigo": "PSATMAU",
+                    "id": 49
+                },
+                {
+                    "nome": "Rosana_SMAP2.0",
+                    "codigo": "PSATROS",
+                    "id": 67
+                },
+                {
+                    "nome": "CanoasI_SMAP2.0",
+                    "codigo": "PSATCNI",
+                    "id": 10
+                },
+                {
+                    "nome": "Capivara_SMAP2.0",
+                    "codigo": "PSATCPV",
+                    "id": 13
+                },
+                {
+                    "nome": "Chavantes_SMAP2.0",
+                    "codigo": "PSATCHT",
+                    "id": 8
+                },
+                {
+                    "nome": "Jurumirim_SMAP2.0",
+                    "codigo": "PSATJUR",
+                    "id": 44
+                }
+            ]
+        },
+        {
+            "nome": "Parnaiba",
+            "items": [
+                {
+                    "nome": "UHE_BoaEsperanca",
+                    "codigo": "PSATUBE",
+                    "id": 84
+                }
+            ]
+        },
+        {
+            "nome": "SantaMariaDaVitoria",
+            "items": [
+                {
+                    "nome": "UHE_Suica_ajusteGEFS_rev",
+                    "codigo": "PSATSUIC",
+                    "id": 118
+                }
+            ]
+        },
+        {
+            "nome": "SantoAndonioDoJari",
+            "items": [
+                {
+                    "nome": "StoAntonioJari",
+                    "codigo": "PSATJARI",
+                    "id": 39
+                }
+            ]
+        },
+        {
+            "nome": "SaoFrancisco",
+            "items": [
+                {
+                    "nome": "Inc_SaoFrancisco_SaoRomao",
+                    "codigo": "PSATSFR",
+                    "id": 100
+                },
+                {
+                    "nome": "IncrementalTresMarias",
+                    "codigo": "PSATTMR",
+                    "id": 83
+                },
+                {
+                    "nome": "Queimado",
+                    "codigo": "PSATQMD",
+                    "id": 62
+                },
+                {
+                    "nome": "RetiroBaixo",
+                    "codigo": "PSATRBX",
+                    "id": 64
+                },
+                {
+                    "nome": "SaoRomao",
+                    "codigo": "PSATSRM",
+                    "id": 101
+                },
+                {
+                    "nome": "Boqueirao",
+                    "codigo": "PSATBOQ",
+                    "id": 102
+                }
+            ]
+        },
+        {
+            "nome": "TelesPires",
+            "items": [
+                {
+                    "nome": "Colider",
+                    "codigo": "PSATCOLI",
+                    "id": 12
+                },
+                {
+                    "nome": "SManoel",
+                    "codigo": "PSATSAEL",
+                    "id": 70
+                }
+            ]
+        },
+        {
+            "nome": "Tiete",
+            "items": [
+                {
+                    "nome": "Barra_Bonita",
+                    "codigo": "PSATBBO",
+                    "id": 3
+                },
+                {
+                    "nome": "Edgard_Souza",
+                    "codigo": "PSATESZ",
+                    "id": 23
+                },
+                {
+                    "nome": "Ibitinga",
+                    "codigo": "PSATIBT",
+                    "id": 31
+                },
+                {
+                    "nome": "Nova_Avanhandava",
+                    "codigo": "PSATNAV",
+                    "id": 53
+                }
+            ]
+        },
+        {
+            "nome": "Tocantins",
+            "items": [
+                {
+                    "nome": "Conceicao_do_Araguaia",
+                    "codigo": "PSATARAG",
+                    "id": 104
+                },
+                {
+                    "nome": "Bandeirantes",
+                    "codigo": "PSATBTE",
+                    "id": 103
+                },
+                {
+                    "nome": "Estreito",
+                    "codigo": "PSATLJET",
+                    "id": 46
+                },
+                {
+                    "nome": "Lajeado",
+                    "codigo": "PSATLAJ",
+                    "id": 45
+                },
+                {
+                    "nome": "Porto_Real",
+                    "codigo": "PSATPTRL",
+                    "id": 105
+                },
+                {
+                    "nome": "Serra_da_Mesa",
+                    "codigo": "PSATSME",
+                    "id": 77
+                },
+                {
+                    "nome": "Tucurui",
+                    "codigo": "PSATUCR",
+                    "id": 85
+                }
+            ]
+        },
+        {
+            "nome": "Uruguai",
+            "items": [
+                {
+                    "nome": "EC45-QuebraQueixo_AjusteECMWF",
+                    "codigo": "PSATQQX",
+                    "id": 63
+                },
+                {
+                    "nome": "Barra_Grande",
+                    "codigo": "PSATBGR",
+                    "id": 4
+                },
+                {
+                    "nome": "Campos_Novos",
+                    "codigo": "PSATCNV",
+                    "id": 11
+                },
+                {
+                    "nome": "Foz_do_Chapeco",
+                    "codigo": "PSATFCH",
+                    "id": 24
+                },
+                {
+                    "nome": "Ita",
+                    "codigo": "PSATITA",
+                    "id": 35
+                },
+                {
+                    "nome": "Machadinho",
+                    "codigo": "PSATMCD",
+                    "id": 50
+                },
+                {
+                    "nome": "Monjolinho",
+                    "codigo": "PSATMOJ",
+                    "id": 51
+                },
+                {
+                    "nome": "Passo_Sao_Joao",
+                    "codigo": "PSATPSJ",
+                    "id": 59
+                },
+                {
+                    "nome": "Quebra_Queixo",
+                    "codigo": "PSATQQX",
+                    "id": 63
+                }
+            ]
+        },
+        {
+            "nome": "Xingu",
+            "items": [
+                {
+                    "nome": "Boa Esperança",
+                    "codigo": "PSATBESP",
+                    "id": 119
+                },
+                {
+                    "nome": "Boa Sorte",
+                    "codigo": "PSATBSOR",
+                    "id": 107
+                },
+                {
+                    "nome": "Pimental",
+                    "codigo": "PSATPIME",
+                    "id": 120
+                }
+            ]
+        },
+        {
+            "nome": "Itajai",
+            "items": [
+                {
+                    "nome": "SaltoPilao",
+                    "codigo": "PSATSTPL",
+                    "id": 81
+                }
+            ]
+        },
+        {
+            "nome": "SaltoRS",
+            "items": [
+                {
+                    "nome": "SaltoTotal",
+                    "codigo": "PSATSALT",
+                    "id": 1000
+                },
+                {
+                    "nome": "EC45-salto_total_fake",
+                    "codigo": "PSATSALT",
+                    "id": 1000
+                }
+            ]
+        },
+        {
+            "nome": "SaltoApiacas",
+            "items": [
+                {
+                    "nome": "EC45-SaltoApiacas",
+                    "codigo": "PSATAPI",
+                    "id": 133
+                }
+            ]
+        }
+    ]
+}

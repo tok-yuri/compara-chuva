@@ -213,3 +213,6 @@ dados_exemplo/*/*/comparacao/
 **/comparacao/*.txt
 ECMWF/
 GEFS/*
+COMPARAR_CHUVA_DIARIA/*
+COMPARAR_HINDCAST/*
+CONTORNOS/*.bln
